@@ -1,0 +1,4 @@
+GlowScript 3.2 VPython
+
+ball = sphere(pos=vec(40, 40, 0))
+ball.v = vec(0, 1, 0)
